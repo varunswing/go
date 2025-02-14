@@ -33,7 +33,8 @@ func main() {
 	// pointer()
 	// go_routine()
 	// select_go()
-	channel()
+	// channel()
+	interfaceExample()
 
     s := []int{345, 78, 123, 10, 76, 2, 567, 5}
     sort.Ints(s)
